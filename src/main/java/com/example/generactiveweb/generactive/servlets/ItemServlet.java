@@ -1,4 +1,4 @@
-package com.example.generactiveweb.servlets;
+package com.example.generactiveweb.generactive.servlets;
 
 import com.example.generactiveweb.generactive.model.Item;
 import com.fasterxml.jackson.core.JsonProcessingException;
